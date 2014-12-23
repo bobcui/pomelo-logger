@@ -7,7 +7,7 @@
         "url": "git+ssh://git@git.marstv.com/git/backend/pomelo-logger.git"
     },    
     "dependencies": {
-        "log4js": "git+ssh://git@git.marstv.com/git/backend/log4js.git",
+        "log4js": "git+ssh://git@git.marstv.com/git/backend/log4js.git"
     },
     "devDependencies": {
         "should": ">=0.0.1",
