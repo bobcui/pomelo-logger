@@ -21,5 +21,6 @@
     "replaceConsole": false,
 
     "lineDebug": false,
-    "reloadSecs": 1
+    "reloadSecs": 1,
+    "reloadSync": false
 }
