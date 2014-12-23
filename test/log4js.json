@@ -1,0 +1,25 @@
+{
+    "appenders": [
+        {
+            "type": "file",
+            "filename": "./test.log",
+            "fileSize": 10485760,
+            "layout": {
+                "type": "basic"
+            }, 
+            "backups": 5
+        },
+        {
+            "type": "console"
+        }
+    ],
+
+    "levels": {
+        "[all]": "INFO"
+    },
+
+    "replaceConsole": false,
+
+    "lineDebug": false,
+    "reloadSecs": 1
+}
