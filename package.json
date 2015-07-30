@@ -4,10 +4,10 @@
     "private": false,
     "repository": {
         "type": "git",
-        "url": "git+ssh://git@git.marstv.com/git/backend/pomelo-logger.git"
+        "url": "https://github.com/bobcui/pomelo-logger.git"
     },    
     "dependencies": {
-        "log4js": "git+ssh://git@git.marstv.com/git/backend/log4js.git"
+        "log4js": "https://github.com/bobcui/log4js-node.git"
     },
     "devDependencies": {
         "should": ">=0.0.1",
